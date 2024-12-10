@@ -54,7 +54,7 @@ export default function Navbar() {
         <div className="container mx-auto flex items-center justify-between px-4 py-5 md:py-2">
           {/* Logo */}
           <Link href={"/"} className="flex items-center md:space-x-2">
-            <h1 className=" text-xl">Vishal Alankar Jewellers</h1>
+            <h1 className=" text-xl">Solah Shringar Jewellers</h1>
           </Link>
           {/* Links */}
           <div className="hidden space-x-12 font-semibold lg:flex">
